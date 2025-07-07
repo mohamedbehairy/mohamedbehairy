@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hello, I'm Mohamed Behairy – Front-End Web Developer & CS Student</h1>
+<h1 align="left">👋 Hello, I'm Mohamed Behairy – Front-End Web Develope</h1>
 
 <h3 align="left">💻 Front-End Developer with a passion for building clean, dynamic, and accessible web applications.</h3>
 
