@@ -6,10 +6,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-behairy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:behairy2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:medobehairy2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/mohamedbehairy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://mohamedbehairy.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-</p>
+ </p>
 
 <br/>
 
@@ -21,10 +20,8 @@ I'm a front-end developer with expertise in building modern, responsive web appl
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  
+<div align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,tailwind,typescript,git,github,vscode,cpp,python,axios" alt="My Skills" />
-  
 </div>
 
 <p align="center">
@@ -32,30 +29,4 @@ I'm a front-end developer with expertise in building modern, responsive web appl
 </p>
 
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedbehairy&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbehairy&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedbehairy&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedbehairy&theme=dracula&no-frame=true&no-bg=false&margin-w=4" />
-</div>
-
-<br/>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedbehairy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+ 
