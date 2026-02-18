@@ -20,10 +20,9 @@ I enjoy transforming complex ideas into intuitive, responsive, and visually enga
 </p>
 
 <p align="left">
-JavaScript (ES6+) and modern JS features are used extensively in my projects.<br>
-Additional tools and libraries: shadcn/ui, Radix UI, Zod, React Hook Form, Server Actions, SweetAlert2, WeatherAPI, TheMealDB API
+Additional tools and libraries I work with: <br>
+shadcn/ui, Radix UI, Zod, React Hook Form
 </p>
-
 
 ---
 
