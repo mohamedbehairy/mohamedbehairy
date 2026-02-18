@@ -13,15 +13,9 @@
 
 <br/>
 
-<div align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</div>
-
 ## 🚀 About Me
 
-I'm a front-end developer with expertise in building modern, responsive web applications. Passionate about clean code and user-centered design, I leverage technologies like React, Next.js, and TypeScript to deliver scalable and maintainable solutions.
-
-With a strong focus on performance and accessibility, I transform design concepts into seamless digital experiences. I continuously explore new tools and frameworks to stay at the forefront of web development.
+I'm a front-end developer with expertise in building modern, responsive web applications. Passionate about clean code and user-centered design, I leverage technologies like React, Next.js, and TypeScript to deliver scalable and maintainable solutions. I focus on performance, accessibility, and creating seamless digital experiences that align with business goals.
 
 <br/>
 
@@ -29,22 +23,12 @@ With a strong focus on performance and accessibility, I transform design concept
 
 <div align="center">
   
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,tailwind,typescript,git,github,vscode,cpp,python,axios" alt="My Skills" />
   
 </div>
 
 <p align="center">
-  <b>Additional tools:</b> shadcn/ui, Radix UI, Zod, React Hook Form, Axios
+  <b>Additional tools:</b> shadcn/ui, Radix UI, Zod, React Hook Form
 </p>
 
 <br/>
