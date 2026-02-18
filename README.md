@@ -20,9 +20,11 @@ I'm a front-end developer with expertise in building modern, responsive web appl
 
 ## 🛠️ Tech Stack
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,tailwind,typescript,git,github,vscode,cpp,python,axios" alt="My Skills" />
 </div>
+
+<br/>
 
 <p align="center">
   <b>Additional tools:</b> shadcn/ui, Radix UI, Zod, React Hook Form
