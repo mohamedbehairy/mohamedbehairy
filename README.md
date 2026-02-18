@@ -16,13 +16,14 @@ I enjoy transforming complex ideas into intuitive, responsive, and visually enga
 <h2 align="left">🛠️ I Code With</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,es6,react,nextjs,tailwind,typescript,git,github,vscode,cpp,python,axios" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,tailwind,typescript,git,github,vscode,cpp,python,axios" alt="My Skills" />
 </p>
 
 <p align="left">
-Additional tools and libraries I work with: <br>
-shadcn/ui, Radix UI, Zod, React Hook Form, Server Actions, SweetAlert2, WeatherAPI, TheMealDB API
+JavaScript (ES6+) and modern JS features are used extensively in my projects.<br>
+Additional tools and libraries: shadcn/ui, Radix UI, Zod, React Hook Form, Server Actions, SweetAlert2, WeatherAPI, TheMealDB API
 </p>
+
 
 ---
 
